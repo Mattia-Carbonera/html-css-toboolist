@@ -14,3 +14,22 @@
     width: 1000px;
     max-width: 100%;
   }
+
+  /* ________ HEADER ________ */
+
+.header {
+  line-height: 120px;
+  padding: 0 30px;
+  background-color: white;
+}
+
+.header>img {
+  height: 80px;
+  vertical-align: middle;
+}
+
+.header>span {
+  font-size: 3rem;
+  font-weight: bold;
+  vertical-align: middle;
+}
